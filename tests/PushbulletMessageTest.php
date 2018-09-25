@@ -1,5 +1,7 @@
 <?php
 
+declare(strict_types=1);
+
 namespace NotificationChannels\Pushbullet\Test;
 
 use PHPUnit\Framework\TestCase;

@@ -6,7 +6,7 @@
     "authors": [
         {
             "name": "Alex Plekhanov",
-            "email": "alex@plekhanov.us",
+            "email": "alex@plekhanov.dev",
             "homepage": "https://alex.plekhanov.us",
             "role": "Developer"
         }
@@ -14,8 +14,8 @@
     "require": {
         "php": ">=7.0",
         "guzzlehttp/guzzle": "^6.2",
-        "illuminate/notifications": "~5.3.0|~5.4.0|~5.5.0|~5.6.0|~5.7.0|~5.8.0|^6.0",
-        "illuminate/support": "~5.1.0|~5.2.0|~5.3.0|~5.4.0|~5.5.0|~5.6.0|~5.7.0|~5.8.0|^6.0"
+        "illuminate/notifications": "~5.5.0|~5.6.0|~5.7.0|~5.8.0|^6.0",
+        "illuminate/support": "~5.5.0|~5.6.0|~5.7.0|~5.8.0|^6.0"
     },
     "require-dev": {
         "mockery/mockery": "^1.2.0",
